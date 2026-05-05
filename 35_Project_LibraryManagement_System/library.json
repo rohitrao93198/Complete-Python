@@ -1,0 +1,34 @@
+{
+    "books": [
+        {
+            "id": "B-ORUSA",
+            "title": "Game of Thrones",
+            "author": "Rohit Yadav",
+            "total_copies": 40,
+            "available_copies": 39,
+            "added_on": "2026-05-04 20:42:24"
+        },
+        {
+            "id": "B-K5E92",
+            "title": "Breaking Bad",
+            "author": "Neeraj",
+            "total_copies": 20,
+            "available_copies": 20,
+            "added_on": "2026-05-04 20:43:41"
+        }
+    ],
+    "members": [
+        {
+            "id": "M-Q0K17",
+            "name": "Rohit Yadav",
+            "email": "ry@gmail.com",
+            "borrowed": [
+                {
+                    "book_id": "B-ORUSA",
+                    "title": "Game of Thrones",
+                    "borrow_on": "2026-05-05 09:27:03"
+                }
+            ]
+        }
+    ]
+}
